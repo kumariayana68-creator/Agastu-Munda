@@ -1,1 +1,2 @@
-Mahii - Your Cute AI Assista
+Mahii - Your Cute AI Assistant
+Added cute witch icon for app
